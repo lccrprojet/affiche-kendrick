@@ -1,0 +1,4 @@
+Cible de l'affiche « affiche-propo2 » — générée le 15/10/2026 17:31:50
+
+Dépose TOUS ces fichiers dans experience/target/ de ton projet (remplace les fichiers de même nom).
+Reconnaissance : faible (11288 points d'accroche, conseillé ≥ 18000).
